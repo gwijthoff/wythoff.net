@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing
-image: http://127.0.0.1:4000/public/img/perversity.jpg
+image: http://wythoff.net/public/img/perversity.jpg
 ---
 
 Books
