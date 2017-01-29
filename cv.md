@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-<em>Current as of {{ page.published_at | date: '%y' }}.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf?raw=true">as a PDF</a>.</em>
+<em>Current as of January 26, 2017.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
 
 <h1>Positions</h1>
 <b>Columbia University</b>, New York, NY
