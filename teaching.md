@@ -28,7 +28,7 @@ Spring 2016 • undergrad seminar • Columbia
 
 > An advanced undergraduate seminar exploring how naturalist literature imagined itself as a form of "big data" collection, with stories that catalogued the tiniest details of daily life and showed how these infinitesimal moments were all integrated into part of much larger, aggregate social systems.  Amid the expansion of quantitative methods in social and psychological research, naturalist novelists sought ways to count, measure, categorize, and classify those elements that previously were assumed to lie outside the novel's scope.
 
-## [Screen Reading](http://wythoff.net/screenreading)
+## [Screen Reading](https://github.com/gwijthoff/Screenreading/blob/master/screenreading_syllabus.md)
 
 Spring 2014 • undergrad seminar • Columbia
 
