@@ -32,4 +32,4 @@ Spring 2016 • undergrad seminar • Columbia
 
 Spring 2014 • undergrad seminar • Columbia
 
-> An advanced undergraduate seminar on the history of reading practices.  With today's dramatic movement of readers from page to screen, do we accept that a change in format can affect the ways we read? How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Seminar coupled with a lab component for experiments in digital textuality.
+> An advanced undergraduate seminar on the history of reading practices.  With today's movement of readers from page to screen, do we accept that a change in format can affect the ways we read? How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Seminar coupled with a lab component for experiments in digital textuality.
