@@ -18,7 +18,11 @@ _Gadgetry: Emerging Media and the Fictional Imagination_ (in preparation)
 
 ## Peer-Reviewed Articles
 
+“Platform Literacy,” in special issue on “Distracted Reading: Acts of Attention in the Age of the Internet,” *Digital Humanities Quarterly* (forthcoming)
+
 ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology* forum on Media Archaeologies, Vol. 2, No. 1 (2015). DOI: [10.1558/jca.v2i1.27061](http://dx.doi.org/10.1558/jca.v2i1.27061)
+
+["The Form of Content Delivery: On Television and Narrative,"](http://mediafieldsjournal.squarespace.com/the-form-of-content-delivery/) *Media Fields Journal* (November 2015)
 
 ["Sustainable Authorship in Plain Text Using Pandoc and Markdown,"](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) with Dennis Tenen, *The Programming Historian* (March 2014). Spanish trans. by Víctor Gayol as ["Escritura Sostenible Usando Pandoc y Markdown"](https://github.com/PH-espagnol/borradores/blob/master/lecciones/escritura-sostenible-usando-pandoc-y-markdown.md)
 
@@ -37,8 +41,6 @@ _Gadgetry: Emerging Media and the Fictional Imagination_ (in preparation)
 "*Track Changes: A Literary History of Word Processing* (review)," *Revista Hispánica Moderna* (forthcoming)
 
 ["Design and DH in the Media Studies Classroom,"](http://www.teachingmedia.org/design-and-dh-in-the-media-studies-classroom/) Digital Humanities and Media Studies Crossovers issue, *Cinema Journal Teaching Dossier* (December 2015)
-
-["The Form of Content Delivery,"](http://mediafieldsjournal.squarespace.com/the-form-of-content-delivery/) *Media Fields Journal* (November 2015)
 
 ["Areophone, Telephot, Hypnobioscope: Hugo Gernsback and the Science Fictionality of Media,"](http://wi.mobilities.ca/grant-wythoff-aerophone-telephot-hypnobioscope-hugo-gernsbacks-media-theory/) *Wi: Journal of Mobile Media,* (November 2014)
 
