@@ -15,7 +15,7 @@ Books
 
 <!-- Angelo Paura, [*Motherboard Italy (Vice)*](https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories / https://medium.com/italia/hugo-gernsback-luomo-che-ci-ha-fatto-innamorare-del-futuro-ec2fb2fbeebf#.j9f1l9x5y) ❧ Aurelio Cianciotta, [*Neural*](http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/) -->
 
-_Gadgetry: Emerging Media and the Fictional Imagination_ (in preparation)
+_Gadgetry: A History of Techniques_ (in preparation)
 
 ## Peer-Reviewed Articles
 
