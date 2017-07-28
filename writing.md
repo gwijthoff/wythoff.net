@@ -9,10 +9,10 @@ Books
 
 [*The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction*](https://www.upress.umn.edu/book-division/books/the-perversity-of-things) (University of Minnesota Press, 2016), Electronic Mediations series and [Manifold Edition](http://manifold.umn.edu)
 
-> Reviews: 
+> Reviews:
 >
-> James Gleick, [*New York Review of Books*](http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/) | Jan Baetens, [*Leonardo*](http://leonardo.info/reviews/feb2017/gernsback-wythoff.php) | Gregory Reece, [*PopMatters*](http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/) | John DeNardo, [*Kirkus Reviews*](https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/)
-<!-- Angelo Paura, [*Motherboard Italy (Vice)*](https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories / https://medium.com/italia/hugo-gernsback-luomo-che-ci-ha-fatto-innamorare-del-futuro-ec2fb2fbeebf#.j9f1l9x5y) -->
+> James Gleick, [*New York Review of Books*](http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/) | Lisa Yaszek, [*Science Fiction Studies*](wythoff.net/pdf/yaszek_review.pdf) | Jan Baetens, [*Leonardo*](https://www.leonardo.info/review/2017/02/review-of-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and) | Sherryl Vint, *The Year's Work in Critical and Cultural Theory*](http://wythoff.net/pdf/vint_review.pdf) | John DeNardo, [*Kirkus Reviews*](https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/) | Gregory Reece, [*PopMatters*](http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/)
+<!-- Angelo Paura, [*Motherboard Italy (Vice)*](https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories / https://medium.com/italia/hugo-gernsback-luomo-che-ci-ha-fatto-innamorare-del-futuro-ec2fb2fbeebf#.j9f1l9x5y) | Aurelio Cianciotta, [*Neural*](http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/)-->
 
 _Gadgetry: Emerging Media and the Fictional Imagination_ (in preparation)
 
