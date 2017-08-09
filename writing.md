@@ -25,7 +25,7 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 ["The Form of Content Delivery: On Television and Narrative,"](http://mediafieldsjournal.squarespace.com/the-form-of-content-delivery/) *Media Fields Journal* (November 2015)
 
-["Sustainable Authorship in Plain Text Using Pandoc and Markdown,"](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) with Dennis Tenen, *The Programming Historian* (March 2014). Spanish trans. by Víctor Gayol as ["Escritura Sostenible Usando Pandoc y Markdown"](https://github.com/PH-espagnol/borradores/blob/master/lecciones/escritura-sostenible-usando-pandoc-y-markdown.md)
+["Sustainable Authorship in Plain Text Using Pandoc and Markdown,"](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) with Dennis Tenen, *The Programming Historian* (March 2014). Spanish trans. by Víctor Gayol as ["Escritura sostenible en texto plano usando Pandoc y Markdown"](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)
 
 ["Pocket Wireless and the Shape of Media to Come, 1899-1922,"](http://wythoff.net/pdf/Wythoff_2013_Pocket_Wireless_and_the_Shape_of_Media_to_Come,_1899–1922.pdf) *Grey Room* 51 (Spring 2013). DOI: [10.1162/GREY_a_00106](http://dx.doi.org/10.1162/GREY_a_00106)
 
