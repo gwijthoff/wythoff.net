@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Postdoctoral fellow at Columbia University studying media, technology, and culture through the lens of science fiction.
+  Media, technology, and culture through the lens of science fiction.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        []
