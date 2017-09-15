@@ -19,7 +19,7 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 ## Peer-Reviewed Articles
 
-“Laptop Policy: Notes on Boredom,” in preparation for special issue on “Distracted Reading: Acts of Attention in the Age of the Internet,” *Digital Humanities Quarterly*
+“Laptop Policy: Notes on Boredom,” under review for special issue on “Distracted Reading: Acts of Attention in the Age of the Internet,” *Digital Humanities Quarterly*
 
 ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology* forum on Media Archaeologies, Vol. 2, No. 1 (2015). DOI: [10.1558/jca.v2i1.27061](http://dx.doi.org/10.1558/jca.v2i1.27061)
 
