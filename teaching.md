@@ -4,6 +4,12 @@ title: Teaching
 image: http://wythoff.net/public/img/telephot.jpg
 ---
 
+## Global Science Fiction
+
+Spring 2018 • undergrad lecture • Penn State
+
+> This class will introduce students to the history of science fiction, as well as the poetics that distinguish the genre as a unique form of literary production. Our focus will be international, surveying the global production of speculative narratives in several languages (all translated into English). Each of the novels––and some comics––we will read represent a pivotal moment in the development of the genre:  from nineteenth-century utopian precursors, to pulp origins, to the postwar Golden Age, and then from New Wave explorations of race, gender, and sexuality all the way up to the contemporary drive toward dystopia on the one hand and fantasy on the other.
+
 ## [Introduction to Digital Media](https://gwijthoff.github.io/digitalmedia/)
 
 Spring 2017 • undergrad lecture • Columbia
