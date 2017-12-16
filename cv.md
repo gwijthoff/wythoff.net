@@ -31,8 +31,8 @@ Certificate in Media and Modernity, 2009</p>
 <h2 id="books">Books</h2>
 <p><em>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</em> (University of Minnesota Press, 2016)</p>
 <ul>
-<li>• Research Society for American Periodicals Book Prize, honorable mention</li>
-<li>• Selected Reviews: <a href="http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/"><em>New York Review of Books</em></a>, <a href="http://leonardo.info/reviews/feb2017/gernsback-wythoff.php"><em>Leonardo</em></a>, <a href="http://wythoff.net/pdf/yaszek_review.pdf"><em>Science Fiction Studies</em></a>, <a href="http://wythoff.net/pdf/canavan_review.pdf"><em>American Literary History</em></a>, <a href="http://wythoff.net/pdf/vint_review.pdf"><em>Year’s Work in Critical/Cultural Theory</em></a></li>
+<li> Research Society for American Periodicals Book Prize, honorable mention</li>
+<li> Selected Reviews: <a href="http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/"><em>New York Review of Books</em></a>, <a href="http://leonardo.info/reviews/feb2017/gernsback-wythoff.php"><em>Leonardo</em></a>, <a href="http://wythoff.net/pdf/yaszek_review.pdf"><em>Science Fiction Studies</em></a>, <a href="http://wythoff.net/pdf/canavan_review.pdf"><em>American Literary History</em></a>, <a href="http://wythoff.net/pdf/vint_review.pdf"><em>Year’s Work in Critical/Cultural Theory</em></a></li>
 </ul>
 <p><em>Gadgetry: A History of Techniques</em> (in preparation)</p>
 <h2 id="peer-reviewed-articles">Peer-Reviewed Articles</h2>
