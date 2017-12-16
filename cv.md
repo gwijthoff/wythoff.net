@@ -41,11 +41,11 @@ Certificate in Media and Modernity, 2009</p>
 <p>(in preparation) “Media Archaeology and the Paleolithic,” <em>Theory, Culture, and Society</em></p>
 <p>2015 <a href="http://www.equinoxpub.com/journals/index.php/JCA/article/view/27061">“Artifactual Interpretation,”</a> <em>Journal of Contemporary Archaeology</em> forum on Media Archaeologies, Vol. 2, No. 1</p>
 <p>2015 <a href="http://mediafieldsjournal.squarespace.com/the-form-of-content-delivery/">“The Form of Content Delivery,”</a> <em>Media Fields Journal</em></p>
-<p>2014 <a href="http://wi.mobilities.ca/grant-wythoff-aerophone-telephot-hypnobioscope-hugo-gernsbacks-media-theory">“Areophone, Telephot, Hypnobioscope: Hugo Gernsback and the Science Fictionality of Media,”</a> <a href="http://wi.mobilities.ca/"><em>Wi: Journal of Mobile Media,</em></a></p>
+<p>2014 <a href="http://wi.mobilities.ca/grant-wythoff-aerophone-telephot-hypnobioscope-hugo-gernsbacks-media-theory">“Areophone, Telephot, Hypnobioscope: Hugo Gernsback and the Science Fictionality of Media,”</a> <em>Wi: Journal of Mobile Media,</em></p>
 <p>2014 <a href="http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">“Sustainable Authorship in Plain Text Using Pandoc and Markdown,”</a> with Dennis Tenen, <em>The Programming Historian.</em> Spanish transl. by Víctor Gayol as <a href="https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown">“Escritura sostenible en texto plano usando Pandoc y Markdown”</a></p>
 <p>2013 <a href="http://www.mitpressjournals.org/doi/abs/10.1162/GREY_a_00106">“Pocket Wireless and the Shape of Media to Come, 1899-1922,”</a> <em>Grey Room</em> 51, 40-63</p>
 <h2 id="shorter-pieces-and-reviews">Shorter Pieces and Reviews</h2>
-<p>2018 Review of <em>Track Changes: A Literary History of Word Processing</em>, <em>Revista Hispánica Moderna</em> (forthcoming)</p>
+<p>2018 Review of <em>Track Changes: A Literary History of Word Processing</em>, <a href="https://rhm.pennpress.org/home/"><em>Revista Hispánica Moderna</em></a> (forthcoming)</p>
 <p>2017 <a href="http://reallifemag.com/public-enemies/">“Public Enemies,”</a> <em>Real Life Magazine</em></p>
 <p>2015<a href="http://www.teachingmedia.org/design-and-dh-in-the-media-studies-classroom/">“Design and DH in the Media Studies Classroom,”</a> Digital Humanities and Media Studies Crossovers issue, <em>Cinema Journal Teaching Dossier</em></p>
 <p>2014 <a href="http://theappendix.net/issues/2014/7/the-invention-of-wireless-cryptography">“The Invention of Wireless Cryptography,”</a> <em>The Appendix</em> Vol. 2, No. 3</p>
