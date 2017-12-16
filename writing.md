@@ -11,7 +11,7 @@ Books
 
 > Selected Reviews:
 >
-> James Gleick, [*New York Review of Books*](http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/) ❧ Lisa Yaszek, [*Science Fiction Studies*](http://wythoff.net/pdf/yaszek_review.pdf) ❧ Jan Baetens, [*Leonardo*](https://www.leonardo.info/review/2017/02/review-of-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and) ❧ Gerry Canavan, [*American Literary History Online*](http://wythoff.net/pdf/canavan_review.pdf) ❧ Sherryl Vint, [*The Year's Work in Critical and Cultural Theory*](http://wythoff.net/pdf/vint_review.pdf) ❧ John DeNardo, [*Kirkus Reviews*](https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/) ❧ Kristen Gallerneaux, [*The Henry Ford Magazine*](http://wythoff.net/pdf/fordmuseum_review.pdf) ❧ Gregory Reece, [*PopMatters*](http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/)
+> James Gleick, [*New York Review of Books*](http://www.nybooks.com/daily/2017/01/31/hugo-gernsback-making-of-future-man/) ❧ Lisa Yaszek, [*Science Fiction Studies*](http://wythoff.net/pdf/yaszek_review.pdf) ❧ Jan Baetens, [*Leonardo*](https://www.leonardo.info/review/2017/02/review-of-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and) ❧ Gerry Canavan, [*American Literary History*](http://wythoff.net/pdf/canavan_review.pdf) ❧ Sherryl Vint, [*The Year's Work in Critical and Cultural Theory*](http://wythoff.net/pdf/vint_review.pdf) ❧ John DeNardo, [*Kirkus Reviews*](https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/) ❧ Kristen Gallerneaux, [*The Henry Ford Magazine*](http://wythoff.net/pdf/fordmuseum_review.pdf) ❧ Gregory Reece, [*PopMatters*](http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/)
 
 <!-- Angelo Paura, [*Motherboard Italy (Vice)*](https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories / https://medium.com/italia/hugo-gernsback-luomo-che-ci-ha-fatto-innamorare-del-futuro-ec2fb2fbeebf#.j9f1l9x5y) ❧ Aurelio Cianciotta, [*Neural*](http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/) -->
 
@@ -19,7 +19,10 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 ## Peer-Reviewed Articles
 
-“Laptop Policy: Notes on Boredom,” under review for special issue on “Distracted Reading: Acts of Attention in the Age of the Internet,” *Digital Humanities Quarterly*
+“Laptop Policy: Notes on Boredom,” under review for special issue on “Distracted Reading: Acts of Attention in the Age of the Internet,” [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/)
+
+"On Method in the Humanities," under review for special issue on
+"Literature and Science: The State of the Unions," [*Configurations*](https://www.press.jhu.edu/journals/configurations)
 
 ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology* forum on Media Archaeologies, Vol. 2, No. 1 (2015). DOI: [10.1558/jca.v2i1.27061](http://dx.doi.org/10.1558/jca.v2i1.27061)
 
@@ -29,17 +32,11 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 ["Pocket Wireless and the Shape of Media to Come, 1899-1922,"](http://wythoff.net/pdf/Wythoff_2013_Pocket_Wireless_and_the_Shape_of_Media_to_Come,_1899–1922.pdf) *Grey Room* 51 (Spring 2013). DOI: [10.1162/GREY_a_00106](http://dx.doi.org/10.1162/GREY_a_00106)
 
-## Selected Presentations
-
-["On Method in the Humanities,"](https://academiccommons.columbia.edu/catalog/ac:206032) Lab Culture panel at Society for Literature, Science, and the Arts 2016, Atlanta. DOI: [10.7916/D8TD9XWV](http://dx.doi.org/10.7916/D8TD9XWV)
-
-["Artifactual Interpretation"](http://wythoff.net/artifactual_interpretation), special session at the Modern Language Association 2014, Vancouver
-
-["Projecting Martian Photography"](http://wythoff.net/projecting_martian_photography/), Science Fiction Research Association, Atlanta, GA 2009
-
 ## Shorter Pieces and Reviews
 
-"*Track Changes: A Literary History of Word Processing* (review)," *Revista Hispánica Moderna* (forthcoming)
+"*Track Changes: A Literary History of Word Processing* (review)," *Revista Hispánica Moderna* (forthcoming June 2018)
+
+["Public Enemies,"](reallifemag.com/public-enemies/) *Real Life Magazine,* (August 2017)
 
 ["Design and DH in the Media Studies Classroom,"](http://www.teachingmedia.org/design-and-dh-in-the-media-studies-classroom/) Digital Humanities and Media Studies Crossovers issue, *Cinema Journal Teaching Dossier* (December 2015)
 
