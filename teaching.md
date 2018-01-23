@@ -4,7 +4,7 @@ title: Teaching
 image: http://wythoff.net/public/img/telephot.jpg
 ---
 
-## Global Science Fiction
+## [Global Science Fiction](https://gwijthoff.github.io/globalSF/)
 
 Spring 2018 • undergrad lecture • Penn State
 
