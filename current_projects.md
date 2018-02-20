@@ -11,10 +11,6 @@ In this book, I draw on my background in literary studies to address some of the
 
 *Gadgetry* goes beyond the nuts and bolts of a given piece of technology in order to explore the distinctly vernacular philosophies--the media theories from below--that emerge from users and their everyday practices.
 
-## mineral media
-
-A single smartphone contains no fewer than two hundred chemical compounds, and the scale of its lifecycle is truly global: from rare-earth metal mines in Baotou, to data centers in Iowa, to grey markets in Jakarta, and electronics scrap yards in Delhi. This project will search for resonance between the "attention economy" as it's experienced by users of digital devices, and forms of labor along the global supply chain of mining, refining, and manufacturing for these devices.
-
 # Past Projects
 
 <hr/>
