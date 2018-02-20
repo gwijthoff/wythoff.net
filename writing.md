@@ -42,7 +42,7 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 "*Track Changes: A Literary History of Word Processing* (review)," *Revista Hispánica Moderna* (forthcoming June 2018)
 
-["Public Enemies,"](reallifemag.com/public-enemies/) *Real Life Magazine,* (August 2017)
+["Public Enemies,"](http://reallifemag.com/public-enemies/) *Real Life Magazine,* (August 2017)
 
 ["Design and DH in the Media Studies Classroom,"](http://www.teachingmedia.org/design-and-dh-in-the-media-studies-classroom/) Digital Humanities and Media Studies Crossovers issue, *Cinema Journal Teaching Dossier* (December 2015)
 
