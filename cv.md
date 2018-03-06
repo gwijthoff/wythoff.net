@@ -55,6 +55,47 @@ Certificate in Media and Modernity, 2009</p>
 <p>2011 <a href="http://mediacommons.futureofthebook.org/imr/2011/01/12/holding-future-your-hands-gadget-ces-2011">“Like Holding the Future In Your Hands: The Gadget at CES 2011,”</a> <em>In Media Res: A Media Commons Project</em></p>
 <p>2011 <a href="http://institutes.nines.org/docs/">“Guidelines for Promotion and Tenure Committees in Judging Digital Work,”</a> co-author, NINES/NEH Summer Institute on Evaluating Digital Scholarship</p>
 <p>2010 <a href="http://mediacommons.futureofthebook.org/imr/2010/03/10/there-are-eight-million-stories-naked-city-has-been-one-them-procedurality-and-naked-city">“‘There are eight million stories in the naked city; this has been one of them’: Procedurality and <em>The Naked City,</em>”</a> <em>In Media Res: A Media Commons Project</em></p>
+
+# Digital Humanities Projects
+
+Project lead, [History of the Gadget](https://gadgetry.wythoff.net), ongoing
+
+Website design and community engagement, [CHCI Medical Humanities Network,](https://chcinetwork.org/networks/medical-humanities-network) 2015-17
+
+Author and curator, [*The Perversity of Things* Manifold Edition](https://manifold.umn.edu/project/the-perversity-of-things), 2017
+
+Website design and community engagement, [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), 2014 - 2017
+
+Curator, [Hand Crank Media](http://handcrank.wythoff.net/), 2012 - 2013
+
+Project Manager, [Princeton Prosody Archive,](http://prosody.princeton.edu/) 2009 - 2013
+
+# Technical Skills
+
+**Web Development and Digital Publishing:** Omeka, Drupal, Scalar, WordPress, Jekyll, HTML, CSS, XML/TEI
+
+**Social Media & Communications:** MailChimp, Slack, Basecamp, Google Analytics, Google Apps, Twitter, Facebook, Tumblr
+
+**Digital Mapping:** QGIS, Leaflet Maps, Google Maps, Google Earth
+
+**Programming Languages:** Python, Perl, shell scripting
+
+**Python Libraries:** Beautiful Soup, NLTK
+
+**Security:** PGP
+
+**Other Technologies:** Git/GitHub, LaTeX, Scrivener, Zotero, Mendeley, Prezi, Microsoft Office, Apple iWork, iMovie
+
+<h1 id="media-coverage" class="unnumbered">Media Coverage</h1>
+<p><em>AMC Visionaries: James Cameron’s Story of Science Fiction</em> (US television miniseries, 2018)</p>
+<p><em>The Other Side of Mars</em>, dir. Minna Långström (feature-length documentary, Finland, 2018)</p>
+<p><em>Inventing the Future</em>, dir. Eric Schockmel (documentary, 85min, Luxembourg, 2018)</p>
+<p>Aurelio Cianciotta, “Edited by Grant Wythoff – The Perversity Of Things: Hugo Gernsback On Media, Tinkering, And Scientifiction,” <a href="http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/"><em>Neural</em></a> (May 2017)</p>
+<p>Kristen Gallerneaux, “Off the Shelf: Recommended Films, Fine Reads and Dot-coms,” <a href="http://wythoff.net/pdf/fordmuseum_review.pdf"><em>The Henry Ford Magazine</em></a> (March-May 2017)</p>
+<p>John DeNardo, “Learn More about the Creators of Science Fiction,” <a href="https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/"><em>Kirkus Reviews</em></a> (February 2017)</p>
+<p>Gregory L. Reece, “Hugo Gernsback and Perversity and Optimism at the Dawn of Science Fiction,” <a href="http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/"><em>PopMatters</em></a> (December 2016)</p>
+<p>Angelo Paura, “Hugo Gernsback, l’uomo che ci ha fatto innamorare del futuro,” <a href="https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories"><em>Motherboard Italy</em></a> (November 2016)</p>
+
 <h1 id="awards" class="unnumbered">Awards</h1>
 <p>2017 Research Society for American Periodicals (RSAP) Book Prize, Honorable Mention, for <em>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</em></p>
 <p>2013 Microsoft Research FUSE Labs, Award for Best Social Media Expo Project for <a href="https://www.youtube.com/watch?v=UI13hFaWWzw">AmpDamp</a>, a prototype “volume knob” for social media streams</p>
@@ -143,15 +184,7 @@ Certificate in Media and Modernity, 2009</p>
 <p>(Spring 2010) Assistant Instructor, Children’s Literature, Princeton</p>
 <h2 id="rutgers">Rutgers</h2>
 <p>(Fall 2006) Instructor, Dramatic Literature and Performance, First-Year Interest Group Seminars</p>
-<h1 id="media-coverage" class="unnumbered">Media Coverage</h1>
-<p><em>AMC Visionaries: James Cameron’s Story of Science Fiction</em> (US television miniseries, 2018)</p>
-<p><em>The Other Side of Mars</em>, dir. Minna Långström (feature-length documentary, Finland, 2018)</p>
-<p><em>Inventing the Future</em>, dir. Eric Schockmel (documentary, 85min, Luxembourg, 2018)</p>
-<p>Aurelio Cianciotta, “Edited by Grant Wythoff – The Perversity Of Things: Hugo Gernsback On Media, Tinkering, And Scientifiction,” <a href="http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/"><em>Neural</em></a> (May 2017)</p>
-<p>Kristen Gallerneaux, “Off the Shelf: Recommended Films, Fine Reads and Dot-coms,” <a href="http://wythoff.net/pdf/fordmuseum_review.pdf"><em>The Henry Ford Magazine</em></a> (March-May 2017)</p>
-<p>John DeNardo, “Learn More about the Creators of Science Fiction,” <a href="https://www.kirkusreviews.com/features/learn-more-about-creators-science-fiction/"><em>Kirkus Reviews</em></a> (February 2017)</p>
-<p>Gregory L. Reece, “Hugo Gernsback and Perversity and Optimism at the Dawn of Science Fiction,” <a href="http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/"><em>PopMatters</em></a> (December 2016)</p>
-<p>Angelo Paura, “Hugo Gernsback, l’uomo che ci ha fatto innamorare del futuro,” <a href="https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories"><em>Motherboard Italy</em></a> (November 2016)</p>
+
 <h1 id="service" class="unnumbered">Service</h1>
 <h2 id="professional-service">Professional Service</h2>
 <p>Manuscript reviewer for Wiley Blackwell’s Media Studies list</p>
