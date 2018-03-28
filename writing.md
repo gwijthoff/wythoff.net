@@ -50,8 +50,6 @@ _Gadgetry: A History of Techniques_ (in preparation)
 
 ["The Invention of Wireless Cryptography,"](http://theappendix.net/issues/2014/7/the-invention-of-wireless-cryptography) *The Appendix* Vol. 2, No. 3 (July 2014)
 
-["The Parable of the Boy and the Steam Engine,"](http://wythoff.net/pdf/Wythoff_2013_Parable_of_the_Boy_and_the_Steam_Engine.pdf) *Praxicum,* (May 2014)
-
 ["Learning with Polyphony: AmpDamp,"](https://www.ideals.illinois.edu/bitstream/handle/2142/42533/525.pdf) with Acker et al., *iConference 2013 Proceedings,* DOI: [10.9776/13525](http://hdl.handle.net/2142/42533)
 
 ["Like Holding the Future In Your Hands: The Gadget at CES 2011,"](http://mediacommons.futureofthebook.org/imr/2011/01/12/holding-future-your-hands-gadget-ces-2011) *In Media Res: A Media Commons Project,* (February 2011)

@@ -49,7 +49,6 @@ Certificate in Media and Modernity, 2009</p>
 <p>2017 <a href="http://reallifemag.com/public-enemies/">“Public Enemies,”</a> <em>Real Life Magazine</em></p>
 <p>2015<a href="http://www.teachingmedia.org/design-and-dh-in-the-media-studies-classroom/">“Design and DH in the Media Studies Classroom,”</a> Digital Humanities and Media Studies Crossovers issue, <em>Cinema Journal Teaching Dossier</em></p>
 <p>2014 <a href="http://theappendix.net/issues/2014/7/the-invention-of-wireless-cryptography">“The Invention of Wireless Cryptography,”</a> <em>The Appendix</em> Vol. 2, No. 3</p>
-<p>2014 <a href="http://wythoff.net/pdf/Wythoff_2013_Parable_of_the_Boy_and_the_Steam_Engine.pdf">“The Parable of the Boy and the Steam Engine,”</a> <em>Praxicum</em></p>
 <p>2013 <a href="https://ideals.illinois.edu/handle/2142/42533">“Learning with Polyphony: AmpDamp,”</a> with Acker et al., <em>iConference 2013 Proceedings,</em> pp. 1090-1094, doi:10.9776/13525</p>
 <p>2012 <a href="https://digitalhumanities.princeton.edu/files/2013/01/PU-DH-proposal.pdf">“A Proposal for a Digital Humanities Initiative at Princeton,”</a> white paper co-author</p>
 <p>2011 <a href="http://mediacommons.futureofthebook.org/imr/2011/01/12/holding-future-your-hands-gadget-ces-2011">“Like Holding the Future In Your Hands: The Gadget at CES 2011,”</a> <em>In Media Res: A Media Commons Project</em></p>
