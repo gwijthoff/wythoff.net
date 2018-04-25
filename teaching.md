@@ -18,13 +18,13 @@ Spring 2017 • undergrad lecture • Columbia
 
 ## [Digital Methods Workshop](https://gist.github.com/gwijthoff/b21eae48a5d2852a60020fd4179e9d2b)
 
-Fall 2016 • graduate workshop • Columbia
+Fall 2016 • PhD workshop • Columbia
 
 > A series of workshops introducing first-year graduate students to the basic computational literacy necessary for research in the humanities today. The curriculum is designed to introduce ideas that will scale with students' field-specific research interests as they progress through their respective PhD programs. Introduced tools like the command line, markup and textual transformations, and collaboration through GitHub.
 
 ## [Digital Humanities Praxis](https://github.com/gwijthoff/Praxis/blob/master/praxis_syllabus.md)
 
-Spring 2016 • graduate seminar • City University of New York
+Spring 2016 • MA seminar • City University of New York
 
 > Graduate seminar that introduced students to a variety of digital tools and methods through lectures, hands-on workshops, and collaborative projects.  Students were exposed to a broad range of ways to critically evaluate and incorporate digital technologies into their academic research and teaching.  In addition, they produced a digital project in collaboration with fellow students.
 
@@ -34,7 +34,7 @@ Spring 2016 • undergrad seminar • Columbia
 
 > An advanced undergraduate seminar exploring how naturalist literature imagined itself as a form of "big data" collection, with stories that catalogued the tiniest details of daily life and showed how these infinitesimal moments were all integrated into part of much larger, aggregate social systems.  Amid the expansion of quantitative methods in social and psychological research, naturalist novelists sought ways to count, measure, categorize, and classify those elements that previously were assumed to lie outside the novel's scope.
 
-## [Screen Reading](https://github.com/gwijthoff/Screenreading/blob/master/screenreading_syllabus.md)
+## [Screen Reading: The History of Reading from Stone Tablet to Screen](https://github.com/gwijthoff/Screenreading/blob/master/screenreading_syllabus.md)
 
 Spring 2014 • undergrad seminar • Columbia
 
