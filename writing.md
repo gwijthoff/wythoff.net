@@ -8,7 +8,7 @@ image: http://wythoff.net/public/img/perversity.jpg
 
 ❧ _Gadgetry: A History of Techniques_ (in preparation)
 
-❧ [*The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction*](https://www.upress.umn.edu/book-division/books/the-perversity-of-things) (University of Minnesota Press, 2016), Electronic Mediations series and [Manifold Edition](http://manifold.umn.edu)
+❧ [*The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction*](https://www.upress.umn.edu/book-division/books/the-perversity-of-things) (University of Minnesota Press, 2016), Electronic Mediations series and [Manifold Edition](https://manifold.umn.edu/project/the-perversity-of-things), 384 pages, 146 b&w illustrations
 
 > Selected Reviews:
 >
