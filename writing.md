@@ -26,9 +26,9 @@ image: http://wythoff.net/public/img/perversity.jpg
 
 "On Method in the Humanities," [*Configurations*](https://www.press.jhu.edu/journals/configurations), for special issue on "Literature and Science: The State of the Unions" (forthcoming)
 
-Review of *Track Changes: A Literary History of Word Processing,* [*Revista Hispánica Moderna*](https://rhm.pennpress.org/home/) (forthcoming June 2018)
+[Review of Matthew Kirschenbaum, *Track Changes: A Literary History of Word Processing,*](http://wythoff.net/pdf/kirschenbaum_review.pdf) *Revista Hispánica Moderna* (June 2018)
 
-Review of Patrick Jagoda, *Network Aesthetics,* [*American Literary History Online Review*](https://academic.oup.com/alh/pages/the_alh_online_review) (forthcoming)
+[Review of Patrick Jagoda, *Network Aesthetics,*](https://academic.oup.com/DocumentLibrary/ALH/Online%20Review%20Series%2015/15Grant%20Wythoff.pdf) *American Literary History Online Review* (May 2018)
 
 ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology* forum on Media Archaeologies, Vol. 2, No. 1 (2015). DOI: [10.1558/jca.v2i1.27061](http://dx.doi.org/10.1558/jca.v2i1.27061)
 
