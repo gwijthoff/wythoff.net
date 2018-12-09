@@ -4,6 +4,12 @@ title: Teaching
 image: http://wythoff.net/public/img/telephot.jpg
 ---
 
+## [Tacit Media and Digital Culture](https://gwijthoff.github.io/tacitmedia/)
+
+Fall 2018 • PhD seminar • Penn State
+
+> This seminar will introduce a range of frameworks useful for thinking through the history, politics, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies. In what ways do canonical media theories, keyed to the analysis of older media (cinema, radio), address contemporary issues in digital culture and politics? Concepts from our readings will be operationalized with weekly exercises that include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.
+
 ## [Global Science Fiction](https://gwijthoff.github.io/globalSF/)
 
 Spring 2018 • undergrad lecture • Penn State
