@@ -8,6 +8,8 @@ image: http://wythoff.net/public/img/perversity.jpg
 
 ❧ _Gadgetry: A History of Techniques_ (in preparation)
 
+> Selected for workshopping at Object Lessons / NEH Institute on book publishing, and Center for American Literary Studies' First Book Institute
+
 ❧ [*The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction*](https://www.upress.umn.edu/book-division/books/the-perversity-of-things) (University of Minnesota Press, 2016), Electronic Mediations series and [Manifold Edition](https://manifold.umn.edu/project/the-perversity-of-things), 384 pages, 146 b&w illustrations
 
 > Reviews:
@@ -22,13 +24,11 @@ image: http://wythoff.net/public/img/perversity.jpg
 
 ## Peer-Reviewed Articles
 
-“Laptop Policy: Notes on Boredom,” [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) (forthcoming)
+"Editor's Introduction: Techniques and Technologies," *Amodern,* Vol. 9 (forthcoming)
 
-"On Method in the Humanities," [*Configurations*](https://www.press.jhu.edu/journals/configurations), for special issue on "Literature and Science: The State of the Unions" (forthcoming)
+["Laptop Policy: Notes on Boredom,"](http://www.digitalhumanities.org/dhq/vol/12/2/000391/000391.html) *Digital Humanities Quarterly,* Vol. 12, No. 2 (2018)
 
-[Review of Matthew Kirschenbaum, *Track Changes: A Literary History of Word Processing,*](http://wythoff.net/pdf/kirschenbaum_review.pdf) *Revista Hispánica Moderna* (June 2018)
-
-[Review of Patrick Jagoda, *Network Aesthetics,*](https://academic.oup.com/DocumentLibrary/ALH/Online%20Review%20Series%2015/15Grant%20Wythoff.pdf) *American Literary History Online Review* (May 2018)
+["On Method in the Humanities,"](http://muse.jhu.edu/article/698844) *Configurations,* Vol. 26, No. 3 (2018)
 
 ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology* forum on Media Archaeologies, Vol. 2, No. 1 (2015). DOI: [10.1558/jca.v2i1.27061](http://dx.doi.org/10.1558/jca.v2i1.27061)
 
@@ -48,6 +48,8 @@ image: http://wythoff.net/public/img/perversity.jpg
 
 ## Public Writing
 
+["Silicon Valley is Ready to Make Your Decisions For You,"](https://www.washingtonpost.com/outlook/silicon-valleys-attempts-to-self-police-are-anti-democratic-theyre-also-not-new/2018/08/17/cd44fb22-9b1d-11e8-843b-36e177f3081c_story.html) *The Washington Post,* Sun Aug 19, 2018, p. B3
+
 ["Public Enemies,"](http://reallifemag.com/public-enemies/) *Real Life Magazine,* (August 2017)
 
 ["The Invention of Wireless Cryptography,"](http://theappendix.net/issues/2014/7/the-invention-of-wireless-cryptography) *The Appendix* Vol. 2, No. 3 (July 2014)
@@ -55,3 +57,11 @@ image: http://wythoff.net/public/img/perversity.jpg
 ["Like Holding the Future In Your Hands: The Gadget at CES 2011,"](http://mediacommons.futureofthebook.org/imr/2011/01/12/holding-future-your-hands-gadget-ces-2011) *In Media Res: A Media Commons Project,* (February 2011)
 
 ["'There are eight million stories in the naked city; this has been one of them': Procedurality and The Naked City,"](http://mediacommons.futureofthebook.org/imr/2010/03/10/there-are-eight-million-stories-naked-city-has-been-one-them-procedurality-and-naked-city) *In Media Res: A Media Commons Project,* (March 2010)
+
+***********
+
+## Reviews
+
+[Review of Matthew Kirschenbaum, *Track Changes: A Literary History of Word Processing,*](http://wythoff.net/pdf/kirschenbaum_review.pdf) *Revista Hispánica Moderna,* Vol. 71, No. 1 (June 2018)
+
+[Review of Patrick Jagoda, *Network Aesthetics,*](https://academic.oup.com/DocumentLibrary/ALH/Online%20Review%20Series%2015/15Grant%20Wythoff.pdf) *American Literary History Online Review,* Series XV (May 2018)
