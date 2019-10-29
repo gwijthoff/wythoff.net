@@ -103,25 +103,31 @@ Follow the following steps:
     </item>
     
     <item>
+      <title>CV</title>
+      <link>https://wythoff.net/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wythoff.net/cv/</guid>
+      <description>Current as of April 2019. Also available as a PDF.
+Positions Pennsylvania State University (2017-present)
+Visiting Fellow, Center for Humanities and Information
+Columbia University (2013-2017)
+Postdoctoral Fellow, Society of Fellows in the Humanities
+Lecturer, Department of English and Comparative Literature
+Digital Methods and Public Humanities Fellow, Heyman Center for the Humanities
+Education Princeton University, Princeton, NJ
+Ph.D., English Literature, 2013 Certificate in Media and Modernity, 2009
+Rutgers University, New Brunswick, NJ</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://wythoff.net/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wythoff.net/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://wythoff.net/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wythoff.net/writing/</guid>
-      <description>Books ❧ Gadgetry: A History of Techniques (in preparation)
- Selected for workshopping at Object Lessons / NEH Institute on book publishing, and Center for American Literary Studies&amp;rsquo; First Book Institute
- ❧ The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction (University of Minnesota Press, 2016), Electronic Mediations series and Manifold Edition, 384 pages, 146 b&amp;amp;w illustrations
- Reviews:
-James Gleick, New York Review of Books ❧ Lisa Yaszek, Science Fiction Studies ❧ Jan Baetens, Leonardo ❧ Gerry Canavan, American Literary History ❧ Charles De Lint, Magazine of Fantasy &amp;amp; Science Fiction ❧ Sherryl Vint, The Year&amp;rsquo;s Work in Critical and Cultural Theory ❧ Jason W.</description>
+      <description>Networked Selfhood and the Novel Spring 2019 • undergrad seminar
+ The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a networked world has changed something about the way we understand ourselves as individuals. But where should we locate the shifting boundaries between the self and the publics we connect with today? In this course, we will turn to novels for lessons in how personhood has been configured differently.</description>
     </item>
     
   </channel>
