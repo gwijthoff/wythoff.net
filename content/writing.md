@@ -2,9 +2,9 @@
 title = "Writing"
 +++
 
-{{< figure src="https://i.imgur.com/OKfwyTH.jpg" alt="The Perversity of Things cover" caption="" class="right" >}}
-
 ## Books
+
+{{< figure src="https://i.imgur.com/OKfwyTH.jpg" alt="The Perversity of Things cover" caption="" class="right" >}}
 
 ❧ _Gadgetry: A History of Techniques_ (in preparation)
 
@@ -18,9 +18,9 @@ title = "Writing"
 
 <!-- Angelo Paura, [*Motherboard Italy (Vice)*](https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories / https://medium.com/italia/hugo-gernsback-luomo-che-ci-ha-fatto-innamorare-del-futuro-ec2fb2fbeebf#.j9f1l9x5y) ❧ Aurelio Cianciotta, [*Neural*](http://neural.it/2017/05/edited-by-grant-wythoff-the-perversity-of-things-hugo-gernsback-on-media-tinkering-and-scientifiction/) -->
 
-***********
+<!-- {{< figure src="https://i.imgur.com/2O38NUc.jpg" alt="The Perversity of Things excerpt" caption="" class="right" >}} -->
 
-{{< figure src="https://i.imgur.com/2O38NUc.jpg" alt="The Perversity of Things excerpt" caption="" class="right" >}}
+***********
 
 ## Peer-Reviewed Articles
 
