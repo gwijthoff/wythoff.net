@@ -445,7 +445,8 @@ p.img-404 {
   text-align: left;
   line-height: normal;
   font-size: .7em;
-  max-width: 700px;
+  overflow: hidden;
+  max-width: 60ch;
 }
 
 // f5 lh-copy mw7
