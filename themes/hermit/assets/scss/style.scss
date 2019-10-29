@@ -445,8 +445,10 @@ p.img-404 {
   text-align: left;
   line-height: normal;
   font-size: .7em;
-  opacity: .9;
+  max-width: 700px;
 }
+
+// f5 lh-copy mw7
 
 #home-social {
   font-size: 1.4em;
