@@ -257,7 +257,7 @@ table {
   width: 100%;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  background-color: $text;
 }
 
 .hdr-wrapper {
@@ -329,7 +329,7 @@ table {
   z-index: 1;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px 0px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  background-color: $theme;
 
   ul {
     list-style: none;

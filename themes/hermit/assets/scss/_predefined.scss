@@ -34,12 +34,12 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
     word-wrap: break-word;
     border: none;
     color: $black;
-    box-shadow: inset 0 -4px 0 $dark-grey;
+    box-shadow: inset 0 -4px 0 $text;
     transition-property: box-shadow;
     transition-duration: .1s;
 
     &:hover {
-      box-shadow: inset 0 -1em 0 $dark-grey;
+      box-shadow: inset 0 -1em 0 $text;
     }
   }
 }
