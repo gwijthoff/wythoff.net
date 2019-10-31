@@ -901,12 +901,22 @@ hr.post-end {
 
 @media (max-width: 760px) {
 
-  #home-center {
-    padding-top: 300%;
+  .bg-img {
+    width: 100vw;
+    height: 100vh;
+    opacity: 1;
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: opacity .5s;
   }
 
-  #bg-img {
-    background: $yellow;
+  #home-center {
+    padding-top: 300%;
   }
 
   .hide-in-mobile,
@@ -938,12 +948,22 @@ hr.post-end {
 
 @media (max-width: 520px) {
 
-  #home-center {
-    padding-top: 300%;
+  .bg-img {
+    width: 100vw;
+    height: 100vh;
+    opacity: 1;
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: opacity .5s;
   }
 
-  #bg-img {
-    background: $yellow;
+  #home-center {
+    padding-top: 300%;
   }
 
   .content figure.left,
