@@ -27,51 +27,52 @@
 				}
 			</style> -->
 
-<br/>
-<pt id="home-text">
-<span style = "background-color: rgba(78, 52, 82, 0.5)">
-I am a writer and researcher at the <a href="https://cdh.princeton.edu/">Center for Digital Humanities</a> at Princeton University. My first book — <a href="https://www.upress.umn.edu/book-division/books/the-perversity-of-things"><i>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</i></a> — explores how science fiction began among the maker movement of the 1910s. It was published in the University of Minnesota Press’s Electronic Mediations series and was a pilot project for the Manifold Scholarship interactive book platform.
-</span>
-</pt>
-
-<pt id="home-text">
-<span style = "background-color: rgba(78, 52, 82, 0.5)">
-Before coming to Princeton, I held postdoctoral fellowships with the Columbia University Society of Fellows in the Humanities and the Penn State Center for Humanities and Information. At Columbia, I was a co-founder of the <a href="http://xpmethod.plaintext.in/">Group for Experimental Methods in the Humanities</a>, a collective dedicated to process-based scholarship and the rapid prototyping of speculative ideas. At Penn State, I developed a workshop series on “Data Privacy, Democracy, and the Humanities.”
-</span>
-</pt>
-
-<pt id="home-text">
-<span style = "background-color: rgba(78, 52, 82, 0.5)">
-I have written about wireless telegraphy, boredom, technocratic politics, the history of method in the humanities, television, archaeology, and the philosophy of technique. This work has appeared in <i>Digital Humanities Quarterly, Grey Room, The Washington Post, Configurations, Amodern, The Programming Historian,</i> and <i>Real Life Magazine.</i> My teaching includes courses on American naturalism, social media and the novel, global science fiction, digital culture, and what happens when readers move from page to screen. <i class="fa-github"></i>
-</span>
-</pt>
-
-		<nav id="home-nav" class="site-nav">
-			{{ partialCached "menu.html" . }}
-		</nav>
-		{{- with .Site.Params.social }}
-		<br>
-		<div id="home-social">
-			<span style = "background-color: rgba(78, 52, 82, 0.5)">
-			{{ partialCached "social-icons.html" . }}
-			</span>
-		</div>
-		{{- end }}
-		</div>
-		<br>
-		<div id="home-footer">
-			<p>
+			<br/>
+			<pt id="home-text">
 				<span style = "background-color: rgba(78, 52, 82, 0.5)">
-				&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a>{{ .Site.Params.footerCopyright | safeHTML }}
-				{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}
-				{{ end }}
+					I am a writer and researcher at the <a href="https://cdh.princeton.edu/">Center for Digital Humanities</a> at Princeton University. My first book — <a href="https://www.upress.umn.edu/book-division/books/the-perversity-of-things"><i>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</i></a> — explores how science fiction began among the maker movement of the 1910s. It was published in the University of Minnesota Press’s Electronic Mediations series and was a pilot project for the Manifold Scholarship interactive book platform.
 				</span>
-			</p>
-			<p>
+			</pt>
+
+			<pt id="home-text">
 				<span style = "background-color: rgba(78, 52, 82, 0.5)">
-					colors inspired by <a href="https://vimeo.com/274102279"><i>Dreamland</i></a>
+					Before coming to Princeton, I held postdoctoral fellowships with the Columbia University Society of Fellows in the Humanities and the Penn State Center for Humanities and Information. At Columbia, I was a co-founder of the <a href="http://xpmethod.plaintext.in/">Group for Experimental Methods in the Humanities</a>, a collective dedicated to process-based scholarship and the rapid prototyping of speculative ideas. At Penn State, I developed a workshop series on “Data Privacy, Democracy, and the Humanities.”
+				</span>
+			</pt>
+
+			<pt id="home-text">
+				<span style = "background-color: rgba(78, 52, 82, 0.5)">
+					I have written about wireless telegraphy, boredom, technocratic politics, the history of method in the humanities, television, archaeology, and the philosophy of technique. This work has appeared in <i>Digital Humanities Quarterly, Grey Room, The Washington Post, Configurations, Amodern, The Programming Historian,</i> and <i>Real Life Magazine.</i> My teaching includes courses on American naturalism, social media and the novel, global science fiction, digital culture, and what happens when readers move from page to screen. <i class="fa-github"></i>
+				</span>
+			</pt>
+
+			<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
+			</nav>
+			{{- with .Site.Params.social }}
+				<br>
+				<div id="home-social">
+					<span style = "background-color: rgba(78, 52, 82, 0.5)">
+						{{ partialCached "social-icons.html" . }}
 					</span>
-			</p>
-		</div>
-	</div>
+				</div>
+			{{- end }}
+			</div>
+			<br>
+			<div id="home-footer">
+				<p>
+					<span style = "background-color: rgba(78, 52, 82, 0.5)">
+					&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a>{{ .Site.Params.footerCopyright | safeHTML }}
+					{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}
+					{{ end }}
+					</span>
+				</p>
+				<p>
+					<span style = "background-color: rgba(78, 52, 82, 0.5)">
+						colors inspired by <a href="https://vimeo.com/274102279"><i>Dreamland</i></a>
+					</span>
+				</p>
+			</div>
+			</div>
+
 {{ end }}
