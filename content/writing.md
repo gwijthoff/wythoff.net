@@ -4,7 +4,7 @@ title = "Writing"
 
 ## Books
 
-{{< figure src="https://i.imgur.com/OKfwyTH.jpg" alt="The Perversity of Things cover" caption="" class="right" >}}
+{{< figure src="https://i.imgur.com/OKfwyTH.jpg" link="https://manifold.umn.edu/project/the-perversity-of-things" alt="The Perversity of Things cover" caption="" class="right" >}}
 
 ❧ _Gadgetry: A History of Techniques_ (in preparation)
 
@@ -23,6 +23,8 @@ title = "Writing"
 ***********
 
 ## Peer-Reviewed Articles
+
+{{< figure src="https://i.imgur.com/slWdDYi.jpg" link="http://muse.jhu.edu/article/698844" alt="On Method in the Humanities first page" caption="" class="right" >}}
 
 "Editor's Introduction: Techniques and Technologies," *Amodern,* Vol. 9 (forthcoming)
 
@@ -45,6 +47,8 @@ title = "Writing"
 ["Pocket Wireless and the Shape of Media to Come, 1899-1922,"](http://wythoff.net/pdf/Wythoff_2013_Pocket_Wireless_and_the_Shape_of_Media_to_Come,_1899–1922.pdf) *Grey Room* 51 (Spring 2013). DOI: [10.1162/GREY_a_00106](http://dx.doi.org/10.1162/GREY_a_00106)
 
 ***********
+
+{{< figure src="https://i.imgur.com/vMpwOCQ.jpg" link="https://www.washingtonpost.com/outlook/silicon-valleys-attempts-to-self-police-are-anti-democratic-theyre-also-not-new/2018/08/17/cd44fb22-9b1d-11e8-843b-36e177f3081c_story.html" alt="WaPo" caption="" class="right" >}}
 
 ## Public Writing
 

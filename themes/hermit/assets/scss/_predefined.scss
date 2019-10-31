@@ -29,8 +29,14 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
     color: $black;
   }
 
-  h1 {color: $black;}
-  h2 {color: $black;}
+  h1 {
+    color: $black;
+  }
+  h2 {
+    color: $black;
+    font-family: $font-heading;
+    font-size: 2rem;
+  }
   h3 {color: $black;}
   h4 {color: $black;}
 

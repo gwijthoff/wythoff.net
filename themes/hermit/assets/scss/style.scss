@@ -43,7 +43,6 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
   font-family: $font-heading;
   color: $text;
   opacity: .8;
@@ -160,6 +159,7 @@ table {
   margin: 0 auto;
   max-width: 1200px;
   width: 93%;
+  h1 {font-size: 4rem;}
 }
 
 .thin {
@@ -427,6 +427,7 @@ p.img-404 {
 
 #home-title {
   margin: 0;
+  font-size: 3rem;
   text-align: center;
 }
 

@@ -3,10 +3,14 @@ layout: page
 title: CV
 ---
 
-<em>Current as of April 2019.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
+<em>Current as of October 2019.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
 
-<h1>Positions</h1>
-<b>Pennsylvania State University (2017-present)</b>
+<h2>Positions</h2>
+<b>Princeton University (2019-present)</b>
+
+<p style="padding-left: 30px;">DH Strategist, Center for Digital Humanities</p>
+
+<b>Pennsylvania State University (2017-2019)</b>
 
 <p style="padding-left: 30px;">Visiting Fellow, Center for Humanities and Information</p>
 
@@ -16,7 +20,7 @@ title: CV
 <p style="padding-left: 30px;">Lecturer, Department of English and Comparative Literature</p>
 <p style="padding-left: 30px;">Digital Methods and Public Humanities Fellow, Heyman Center for the Humanities</p>
 
-<h1>Education</h1>
+<h2>Education</h2>
 <b>Princeton University</b>, Princeton, NJ
 
 <p style="padding-left: 30px;">Ph.D., English Literature, 2013<p>
@@ -27,8 +31,8 @@ title: CV
 <p style="padding-left: 30px;">B.A., summa cum laude, English Literature, 2007</p>
 
 
-<h1 id="publications" class="unnumbered">Publications</h1>
-<h2 id="books">Books</h2>
+<h2 id="publications" class="unnumbered">Publications</h2>
+<h3 id="books">Books</h3>
 <p><em>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</em> (University of Minnesota Press, 2016)</p>
 <ul>
 <li> Research Society for American Periodicals Book Prize, honorable mention</li>
@@ -38,7 +42,7 @@ title: CV
 <ul>
 <li> selected for workshopping at Object Lessons/NEH Institute on book publishing and Center for American Literary Studies First Book Institute</li>
 </ul>
-<h2 id="research-articles">Research Articles</h2>
+<h3 id="research-articles">Research Articles</h3>
 <p>2019 “Editor’s Introduction: Techniques and Technologies,” <em>Amodern,</em> Vol. 9 (forthcoming)</p>
 <p>2018 <a href="http://www.digitalhumanities.org/dhq/vol/12/2/000391/000391.html">“Laptop Policy: Notes on Boredom,”</a> <em>Digital Humanities Quarterly,</em> Vol. 12, No. 2</p>
 <p>2018 <a href="http://muse.jhu.edu/article/698844">“On Method in the Humanities,”</a> <em>Configurations,</em> Vol. 26, No. 3</p>
@@ -51,17 +55,17 @@ title: CV
 <p>2013 <a href="https://ideals.illinois.edu/handle/2142/42533">“Learning with Polyphony: AmpDamp,”</a> with Acker et al., <em>iConference 2013 Proceedings,</em> pp. 1090-1094, doi:10.9776/13525</p>
 <p>2012 <a href="https://digitalhumanities.princeton.edu/files/2013/01/PU-DH-proposal.pdf">“A Proposal for a Digital Humanities Initiative at Princeton,”</a> white paper co-author</p>
 <p>2011 <a href="http://institutes.nines.org/docs/">“Guidelines for Promotion and Tenure Committees in Judging Digital Work,”</a> co-author, NINES/NEH Summer Institute on Evaluating Digital Scholarship</p>
-<h2 id="reviews">Reviews</h2>
+<h3 id="reviews">Reviews</h3>
 <p>2018 Review of <em>Track Changes: A Literary History of Word Processing</em>, <a href="https://rhm.pennpress.org/home/"><em>Revista Hispánica Moderna</em></a> (forthcoming)</p>
 <p>2018 <a href="https://academic.oup.com/DocumentLibrary/ALH/Online%20Review%20Series%2015/15Grant%20Wythoff.pdf">Review of Patrick Jagoda, <em>Network Aesthetics,</em></a> <em>ALH Online Review,</em> Series XV</p>
-<h2 id="public-writing">Public Writing</h2>
+<h3 id="public-writing">Public Writing</h3>
 <p>2018 <a href="https://www.washingtonpost.com/outlook/silicon-valleys-attempts-to-self-police-are-anti-democratic-theyre-also-not-new/2018/08/17/cd44fb22-9b1d-11e8-843b-36e177f3081c_story.html">“Silicon Valley is Ready to Make Your Decisions For You,”</a> <em>The Washington Post,</em> Sun Aug 19, p. B3</p>
 <p>2017 <a href="http://reallifemag.com/public-enemies/">“Public Enemies,”</a> <em>Real Life Magazine</em></p>
 <p>2014 <a href="http://theappendix.net/issues/2014/7/the-invention-of-wireless-cryptography">“The Invention of Wireless Cryptography,”</a> <em>The Appendix</em> Vol. 2, No. 3</p>
 <p>2011 <a href="http://mediacommons.futureofthebook.org/imr/2011/01/12/holding-future-your-hands-gadget-ces-2011">“Like Holding the Future In Your Hands: The Gadget at CES 2011,”</a> <em>In Media Res: A Media Commons Project</em></p>
 <p>2010 <a href="http://mediacommons.futureofthebook.org/imr/2010/03/10/there-are-eight-million-stories-naked-city-has-been-one-them-procedurality-and-naked-city">“‘There are eight million stories in the naked city; this has been one of them’: Procedurality and <em>The Naked City,</em>”</a> <em>In Media Res: A Media Commons Project</em></p>
 
-<h1 id="media-coverage" class="unnumbered">Media Coverage</h1>
+<h2 id="media-coverage" class="unnumbered">Media Coverage</h2>
 <p><em>AMC Visionaries: James Cameron’s Story of Science Fiction</em> (US television miniseries, 2018)</p>
 <p>Graham Johnson, <a href="https://www.are.na/blog/state%20of%20the%20internet/2018/02/27/state-grant-wythoff.html">“State of the Internet: Grant Wythoff,”</a> <em>Are.na</em> February 2018</p>
 <p><em>Mars Hill Audio</em> radio interview, February 2018</p>
@@ -73,11 +77,11 @@ title: CV
 <p>Gregory L. Reece, “Hugo Gernsback and Perversity and Optimism at the Dawn of Science Fiction,” <a href="http://www.popmatters.com/review/hugh-gernsback-the-perversity-of-things-by-grant-wythoff/"><em>PopMatters</em></a> (December 2016)</p>
 <p>Angelo Paura, “Hugo Gernsback, l’uomo che ci ha fatto innamorare del futuro,” <a href="https://motherboard.vice.com/it/article/profilo-hugo-gernsback-amazing-stories"><em>Motherboard Italy</em></a> (November 2016)</p>
 
-<h1 id="awards" class="unnumbered">Awards</h1>
+<h2 id="awards" class="unnumbered">Awards</h2>
 <p>2017 Research Society for American Periodicals (RSAP) Book Prize, Honorable Mention, for <em>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</em></p>
 <p>2013 Microsoft Research FUSE Labs, Award for Best Social Media Expo Project for <a href="https://www.youtube.com/watch?v=UI13hFaWWzw">AmpDamp</a>, a prototype “volume knob” for social media streams</p>
 <p>2007 The Jordan Lee Flyer Honors Award for best undergraduate thesis, <em>Becoming-Film: A Brief Poetics of Trailers</em></p>
-<h1 id="grants" class="unnumbered">Grants</h1>
+<h2 id="grants" class="unnumbered">Grants</h2>
 <p>2018 Teaching Transformation and Innovation Grant, Schreyer Institute for Teaching Excellence, to support workshop series “Data Privacy, Democracy, and The Humanities”</p>
 <p>2016 Barr Ferree Publication Fund subvention in support of <em>The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction</em></p>
 <p>2015 Grants from centerNET and Consortium of Humanities Centers and Institutes (CHCI) to attend the New Scholars Seminar in Digital Humanities at the University of Western Sydney</p>
@@ -89,8 +93,8 @@ title: CV
 <p>2012 Princeton Program in American Studies Summer Prize to support research at the Hugo Gernsback Papers, Syracuse University Library Special Collections</p>
 <p>2011 Nineteenth-Century Scholarship Online (NINES) Scholarship to attend the Digital Humanities Summer institute in Victoria, British Columbia</p>
 <p>2008 Princeton Institute for International and Regional Studies Award for intensive summer language study in German</p>
-<h1 id="presentations" class="unnumbered">Presentations</h1>
-<h2 id="invited-public-lectures">Invited Public Lectures</h2>
+<h2 id="presentations" class="unnumbered">Presentations</h2>
+<h3 id="invited-public-lectures">Invited Public Lectures</h3>
 <p>2018 Visiting Faculty, Princeton/Weimar Summer School for Media Studies, Princeton University, June</p>
 <p>2018 Keynote at the Rutgers Camden Archive of Digital Ephemera (R-CADE) Symposium, April</p>
 <p>2018 “Media Inventories of the Nineteenth Century,” Dartmouth University, March</p>
@@ -101,12 +105,12 @@ title: CV
 <p>2014 “<a href="http://dhcolumbia.github.io/pandoc-workflow/talks/plain-text/slides/presi.slides.html#/">The Ethics of Plain Text,“</a> with Dennis Tenen, Princeton/Weimar Summer School for Media Theory, Princeton University, June</p>
 <p>2014 “<a href="http://wythoff.net/cca_talk">Mobile Media and the Paleolithic,“</a> Columbia Center for Archaeology, March</p>
 <p>2013 “From Marlinspike to Mobile Media: An Archaeology of the Gadget”, <a href="http://cinemastudies.sas.upenn.edu/events/2013/November/ColloquiumGrantWythoff">University of Pennsylvania Cinema Studies Colloquium</a>, November</p>
-<h2 id="workshops">Workshops</h2>
+<h3 id="workshops">Workshops</h3>
 <p>2018 Pathways with a PhD: DH Jobs, On and Off the Tenure Track, Center for Digital Humanities, Princeton University, November</p>
 <p>2018 Intro to Markdown, Pandoc, and GitHub, “Software in the Humanities and Social Sciences” series, Penn State, March</p>
 <p>2017 Object Lessons, NEH Institute on book publishing, Tempe, AZ, November</p>
 <p>2016 Workshop on new website for <a href="https://chcimedicalhumanities.org/projects/8-2016-kcl-institute/">CHCI Medical Humanities Summer Institute</a>, Kings College London, June</p>
-<p>2015 <a href="http://dh2015.org/new-scholars-seminar/">New Scholars Seminar in Digital Humanities</a>, Digital Humanities 2015, Sydney, June</p>
+<p>2015 <a href="http://dh3015.org/new-scholars-seminar/">New Scholars Seminar in Digital Humanities</a>, Digital Humanities 2015, Sydney, June</p>
 <p>2014 <a href="http://cals.la.psu.edu/first-book-institute">First Book Institute</a>, Center for American Literary Studies, Pennsylvania State University, June</p>
 <p>2013 <a href="http://www.northeastern.edu/nulab/nmalh/">New Media in American Literary History</a> Interdisciplinary Symposium, Northeastern University, December</p>
 <p>2013 Microsoft FUSE Labs Social Media Expo, <a href="http://ischools.org/the-iconference/about-the-iconference/iconference-2013-summary/">iConference 2013</a>, University of North Texas, February</p>
@@ -115,7 +119,7 @@ title: CV
 <p>2012 <a href="http://german.princeton.edu/ssms/">Princeton / Weimar Summer School for Media Studies</a>, Princeton University, June</p>
 <p>2011 Outside-the-Box Text Analysis Workshop, <a href="http://www.dhsi.org/">Digital Humanities Summer Institute</a>, University of Victoria, June</p>
 <p>2011 Demo Session for the Princeton Prosody Archive, <a href="http://institutes.nines.org/">NINES/NEH Summer Institute</a>, University of Virginia, May</p>
-<h2 id="conferences">Conferences</h2>
+<h3 id="conferences">Conferences</h3>
 <p>2018 “Unthinkable Expertise,” Society for Science, Literature, and the Arts (SLSA), Toronto, November</p>
 <p>2018 “Techniques and Technologies: On the Cultural History of the Gadget,” Third Annual Information &amp; Humanities Conference, Pennsylvania State University, September</p>
 <p>2018 “Tacit Computing and Method in the Humanities,” Digital Humanities (DH), Ciudad de México, June</p>
@@ -138,24 +142,24 @@ title: CV
 <p>2009 “Projecting Martian Photography,” Science Fiction Research Association (SFRA), Science Fiction Research Association, Georgia Tech, June</p>
 <p>2009 “Projecting Martian Photography,” Media and Modernity Colloquium, Princeton University, April</p>
 <p>2009 “Projecting Martian Photography,” Projection: Speculating on Presence, Absence, and Nonsense, City University of New York, March</p>
-<h2 id="conferences-organized">Conferences Organized</h2>
+<h3 id="conferences-organized">Conferences Organized</h3>
 <p>2018 Invited curator for the Rutgers Camden Archive of Digital Ephemera (R-CADE) Symposium, April</p>
 <p>2016 Insuetude: Conversations in Technological Discard and Archaeological Recuperation, Columbia University, Spring</p>
 <p>2014 On Method in the Humanities, Heyman Center for the Humanities, Columbia University Fall-Spring</p>
 <p>2014 “<a href="http://www.columbia.edu/cu/societyoffellows/events_spring14.html">Materiality,“</a> Society of Fellows Thursday Lecture Series, Spring</p>
 <p>2010 “Virtuosity,” <a href="http://arsprinceton.wordpress.com/">Princeton Americanist Research Symposium</a>, March</p>
 <p>2009 On the Possibility of Worlds: An Interdisciplinary Conference, Princeton University March</p>
-<h2 id="panel-chair-or-commentator">Panel Chair or Commentator</h2>
+<h3 id="panel-chair-or-commentator">Panel Chair or Commentator</h3>
 <p>2015 “Artifactual Interpretation: Practices of the Material Turn,” Modern Language Association (MLA)</p>
 <p>2014 A <a href="http://heymancenter.org/events/society-of-fellows-in-the-humanities-presents-a-critical-dialogue-on-media-1/">Critical Dialogue on Media and Materiality</a>, with Bernhard Siegert and Ben Kafka, Columbia University, March</p>
 <p>2014 Social Ecologies panel, Scientific (R)evolutions, Rutgers University, February</p>
-<h1 id="teaching" class="unnumbered">Teaching</h1>
-<h2 id="bryn-mawr">Bryn Mawr</h2>
+<h2 id="teaching" class="unnumbered">Teaching</h2>
+<h3 id="bryn-mawr">Bryn Mawr</h3>
 <p>(Spring 2019) Networked Selfhood and the Novel</p>
-<h2 id="penn-state">Penn State</h2>
+<h3 id="penn-state">Penn State</h3>
 <p>(Fall 2018) Tacit Media and Digital Culture</p>
 <p>(Spring 2018) Global Science Fiction</p>
-<h2 id="columbia">Columbia</h2>
+<h3 id="columbia">Columbia</h3>
 <p>(Summer 2017) Center for Spatial Research: Mapping for the Urban Humanities</p>
 <p>(Spring 2017) Introduction to Digital Media</p>
 <p>(Fall 2016) Graduate Digital Methods Workshop</p>
@@ -163,28 +167,28 @@ title: CV
 <p>(Spring 2014) Screen Reading: The History of Reading from Stone Tablet to Screen</p>
 <p>(Fall 2014) The Core Curriculum: Literature Humanities</p>
 <p>(Fall 2013) The Core Curriculum: Literature Humanities</p>
-<h2 id="cuny">CUNY</h2>
+<h3 id="cuny">CUNY</h3>
 <p>(Spring 2016) Digital Humanities Praxis [graduate seminar taught in place of Matthew K. Gold]</p>
-<h2 id="princeton">Princeton</h2>
+<h3 id="princeton">Princeton</h3>
 <p>(Fall 2008 – Spring 2013) Teaching Fellow, Princeton University Preparatory Program (PUPP), Trenton Central, Ewing, and Princeton High Schools</p>
 <p>(Fall 2010) Lecturer and Assistant Instructor, Intro to American Studies: American Places</p>
 <p>(Spring 2010) Assistant Instructor, Children’s Literature, Princeton</p>
-<h2 id="rutgers">Rutgers</h2>
+<h3 id="rutgers">Rutgers</h3>
 <p>(Fall 2006) Instructor, Dramatic Literature and Performance, First-Year Interest Group Seminars</p>
 
-<h1 id="service" class="unnumbered">Service</h1>
-<h2 id="professional-service">Professional Service</h2>
+<h2 id="service" class="unnumbered">Service</h2>
+<h3 id="professional-service">Professional Service</h3>
 <p>Research Associate, Library of Congress Radio Preservation Task Force</p>
 <p>Manuscript reviewer for Wiley Blackwell’s Media Studies list</p>
 <p>Manuscript reviewer for <em>New Media and Society</em></p>
 <p>Advisory Board member for <a href="http://openthresholds.org/"><em>thresholds: a digital journal for criticism in the spaces between</em></a></p>
 <p>Manuscript reviewer for <em>Breakthrough Ideas</em> track, International Conference on Information Systems 2014 (ICIS 2014).</p>
-<h2 id="university-service">University Service</h2>
+<h3 id="university-service">University Service</h3>
 <p>Co-founder and Moderator, Group for Experimental Methods in the Humanities <a href="http://xpmethod.plaintext.in" class="uri">http://xpmethod.plaintext.in</a>, February 2014 - June 2017</p>
 <p>Steering Committee Member, Princeton University Digital Humanities Initiative, <a href="http://digitalhumanities.princeton.edu" class="uri">http://digitalhumanities.princeton.edu</a>, September 2011 – August 2013</p>
 <p>Project Manager, Princeton Prosody Archive, <a href="http://prosody.princeton.edu" class="uri">http://prosody.princeton.edu</a>, December 2009 – August 2013</p>
 <p>Co-Chair, Americanist Research Colloquium, Princeton University, March 2009 – May 2010</p>
-<h1 id="professional-affiliations" class="unnumbered">Professional Affiliations</h1>
+<h2 id="professional-affiliations" class="unnumbered">Professional Affiliations</h2>
 <p>Modern Language Association (MLA)</p>
 <p>Society for Cinema and Media Studies (SCMS)</p>
 <p>Society for Literature, Science, and the Arts (SLSA)</p>
@@ -192,7 +196,7 @@ title: CV
 <p>Science Fiction Research Association (SFRA)</p>
 <p>American Comparative Literature Association (ACLA)</p>
 <p>Research Society for American Periodicals (RSAP)</p>
-<h1 id="technical-skills" class="unnumbered">Technical Skills</h1>
+<h2 id="technical-skills" class="unnumbered">Technical Skills</h2>
 <p><strong>Programming Languages:</strong> Python, shell scripting</p>
 <p><strong>Python Libraries:</strong> Beautiful Soup, NLTK</p>
 <p><strong>Markup Languages:</strong> TEI/XML, JSON, YAML, LaTeX, markdown</p>
@@ -203,10 +207,10 @@ title: CV
 **Social Media & Communications:** MailChimp, Slack, Basecamp, Google Analytics, Google Apps, Twitter, Facebook, Tumblr
 -->
 <p><strong>Other Technologies:</strong> GitHub, SQLite, Scrivener, Zotero, Mendeley, Prezi, Microsoft Office, Apple iWork, iMovie</p>
-<h1 id="languages" class="unnumbered">Languages</h1>
+<h2 id="languages" class="unnumbered">Languages</h2>
 <p>German (reading proficiency and moderate speaking proficiency)</p>
 <p>French (reading proficiency)</p>
-<h1 id="references" class="unnumbered">References</h1>
+<h2 id="references" class="unnumbered">References</h2>
 <p>Eileen Gillooly, Executive Director, Heyman Center for the Humanities, Columbia University, <a href="mailto:eg48@columbia.edu">eg48@columbia.edu</a></p>
 <p>Eric Hayot, Distinguished Professor of Comparative Literature and Asian Studies, Pennsylvania State University, <a href="mailto:ehayot@psu.edu">ehayot@psu.edu</a></p>
 <p>John Russell, Assistant Professor, University Libraries, Pennsylvania State University, <a href="mailto:jer308@psu.edu">jer308@psu.edu</a></p>
