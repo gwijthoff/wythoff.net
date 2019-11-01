@@ -26,10 +26,10 @@ publishDir = "docs"
 
 [params]
   google_fonts = [
-    ["Noto Serif", "100, 400, 700"],
     ["IBM Plex Sans", "100, 400, 400i, 700, 700i"],
-    ["Monoton"],
     ["Bungee Shade"],
+    ["Noto Serif", "100, 400, 700"],
+    ["Monoton"],
     ["Trocchi"],
     ["Eczar"],
     ["Fascinate Inline"],
@@ -50,7 +50,7 @@ publishDir = "docs"
 
   homeSubtitle = ""
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = "https://i.imgur.com/e0c2mRM.jpg"  
+  bgImg = "https://i.imgur.com/e0c2mRM.jpg"
   # Homepage background-image URL
   # bigger https://i.imgur.com/e0c2mRM.jpg
   # smaller https://i.imgur.com/S5FpE7y.jpg
