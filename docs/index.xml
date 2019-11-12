@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wythoff.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extended Technique</title>
+      <link>https://wythoff.net/posts/technique/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wythoff.net/posts/technique/</guid>
+      <description>Subtitle Goes Here  Your browser does not support the video tag.  Naomi Elena Ramirez,
+Choreography for Smartphone Gestures (2016)  Ideas are products of our environments. It’s no accident that when a new paradigm of media studies appeared on the scene going by the name of “media archaeology,” we were in the process of turning on our first smartphones and gawking at our friends’ new tablets. Media archaeology gave us a set of historical lenses through which, if only indirectly, we could understand those strange gadgets in terms of what came before.</description>
+    </item>
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
@@ -119,15 +129,6 @@ Lecturer, Department of English and Comparative Literature
 Digital Methods and Public Humanities Fellow, Heyman Center for the Humanities
 Education Princeton University, Princeton, NJ
 Ph.D., English Literature, 2013 Certificate in Media and Modernity, 2009</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://wythoff.net/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wythoff.net/teaching/</guid>
-      <description>Networked Selfhood and the Novel Spring 2019 • undergrad seminar  The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a networked world has changed something about the way we understand ourselves as individuals. But where should we locate the shifting boundaries between the self and the publics we connect with today? In this course, we will turn to novels for lessons in how personhood has been configured differently.</description>
     </item>
     
   </channel>

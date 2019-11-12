@@ -592,6 +592,20 @@ hr.post-end {
     margin: 0;
     text-align: center;
 
+/* FOR AMODERN */
+  figcaption {
+    font-size: 75%;
+    position: relative;
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    left: 370px;
+    top: -267px;
+    /*   transform-origin: 100% 25px; */
+  }
+
     p {
       font-size: .8em;
       font-style: italic;
