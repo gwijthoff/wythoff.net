@@ -6,9 +6,9 @@ title = "Writing"
 
 ## Books
 
-☞ [**_Gadgetry: A History of Techniques_**](https://gadgetry.wythoff.net/) (in preparation)
+☞ [**_Gadgetry: A User's Guide to Technique in the Age of Tech_**](https://gadgetry.wythoff.net/) (in preparation)
 
-> Selected for workshopping at Object Lessons / NEH Institute on book publishing, and Center for American Literary Studies' First Book Institute
+> Selected for workshcd opping at Object Lessons / NEH Institute on book publishing, and Center for American Literary Studies' First Book Institute
 
 ☞ [**_The Perversity of Things: Hugo Gernsback on Media, Tinkering, and Scientifiction_**](https://www.upress.umn.edu/book-division/books/the-perversity-of-things)
 
