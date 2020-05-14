@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grant Wythoff</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wythoff.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,7 @@
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wythoff.net/posts/technique/</guid>
-      <description>New Scholarship on the Uses of Media  Your browser does not support the video tag.  Naomi Elena Ramirez,
-Choreography for Smartphone Gestures (2016)  Ideas are products of their environments. It&amp;rsquo;s no accident that when a new paradigm of media studies appeared on the scene going by the name of &amp;ldquo;media archaeology,&amp;rdquo; we were in the process of turning on our first smartphones and gawking at our friends&amp;rsquo; new tablets.</description>
+      <description>New Scholarship on the Uses of Media Ideas are products of their environments. It&amp;rsquo;s no accident that when a new paradigm of media studies appeared on the scene going by the name of &amp;ldquo;media archaeology,&amp;rdquo; we were in the process of turning on our first smartphones and gawking at our friends&amp;rsquo; new tablets.1 Media archaeology foregrounded the paths not taken, the dead ends and minor figures of media history&amp;mdash;files and optical toys, the phonautograph and the Minitel.</description>
     </item>
     
     <item>
@@ -28,10 +27,8 @@ Choreography for Smartphone Gestures (2016)  Ideas are products of their environ
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
       <guid>https://wythoff.net/posts/the-figure-shortcode/</guid>
-      <description>Title Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
+      <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
 https://gohugo.io/content-management/shortcodes/#figure
-
-
 This theme has 3 CSS classes made for figure elements:
  big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
     </item>
@@ -44,7 +41,7 @@ This theme has 3 CSS classes made for figure elements:
       <guid>https://wythoff.net/posts/post-with-featured-image/</guid>
       <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
 For example:
----images:-https://picsum.photos/1024/768/?random--- This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
     </item>
     
     <item>
@@ -53,7 +50,8 @@ For example:
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
       <guid>https://wythoff.net/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
     </item>
     
     <item>
@@ -118,17 +116,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wythoff.net/cv/</guid>
-      <description>Current as of October 2019. Also available as a PDF.
-Positions Princeton University (2019-present)
-DH Strategist, Center for Digital Humanities
-Pennsylvania State University (2017-2019)
-Visiting Fellow, Center for Humanities and Information
-Columbia University (2013-2017)
-Postdoctoral Fellow, Society of Fellows in the Humanities
-Lecturer, Department of English and Comparative Literature
-Digital Methods and Public Humanities Fellow, Heyman Center for the Humanities
-Education Princeton University, Princeton, NJ
-Ph.D., English Literature, 2013 Certificate in Media and Modernity, 2009</description>
+      <description>Current as of October 2019. Also available as a PDF.Pennsylvania State University (2017-2019)Columbia University (2013-2017)</description>
     </item>
     
   </channel>

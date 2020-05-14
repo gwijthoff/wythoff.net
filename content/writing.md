@@ -28,7 +28,7 @@ title = "Writing"
 
 {{< figure src="https://i.imgur.com/slWdDYi.jpg" link="http://muse.jhu.edu/article/698844" alt="On Method in the Humanities first page" caption="" class="right" >}}
 
-"Editor's Introduction: Techniques and Technologies," **_Amodern,_** vol. 9 (forthcoming)
+["Extended Technique: New Scholarship on the Uses of Media,"](https://amodern.net/article/amodern-9-techniques-technologies/) **_Amodern,_** vol. 9 (2020)
 
 ["Laptop Policy: Notes on Boredom,"](http://www.digitalhumanities.org/dhq/vol/12/2/000391/000391.html) **_Digital Humanities Quarterly_** (2018)
 
