@@ -4,6 +4,8 @@ title = "Teaching"
 
 ## Privacy, Publicity, and the Text Message
 
+### Fall 2020 • undergrad seminar
+
 > This seminar will explore how we negotiate the distance between ourselves and others through text messages. Texts sustain an ambient intimacy that is increasingly redefining borders that range from the interpersonal—via anonymous mental health support—to the international—via reporting platforms for immigrant communities. What technical and social expectations of privacy do we operate with when sending a point-to-point message? How do novelists incorporate text messages into works of fiction? What does it mean that Frank Ocean can sing, "you text nothing like you look"? Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
 
 ## [Networked Selfhood and the Novel](https://gwijthoff.github.io/selfhood/)
