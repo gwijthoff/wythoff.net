@@ -2,9 +2,9 @@
 title = "CV"
 +++
 
-<object data="https://wythoff.net/pdf/wythoff_cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://wythoff.net/pdf/wythoff_cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wythoff.net/pdf/wythoff_cv.pdf">Download PDF</a>.</p>
+<object data="/pdf/wythoff_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/pdf/wythoff_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/wythoff_cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
