@@ -1,9 +1,16 @@
----
-layout: page
-title: CV
----
++++
+title = "CV"
++++
 
 <em>Current as of October 2019.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
+
+<!--
+<object data="https://wythoff.net/pdf/yaszek_review.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://wythoff.net/pdf/yaszek_review.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wythoff.net/pdf/yaszek_review.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+-->
 
 <h2>Positions</h2>
 <b>Princeton University (2019-present)</b>

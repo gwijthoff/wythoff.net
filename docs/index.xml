@@ -18,7 +18,8 @@
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wythoff.net/posts/technique/</guid>
-      <description>New Scholarship on the Uses of Media Ideas are products of their environments. It&amp;rsquo;s no accident that when a new paradigm of media studies appeared on the scene going by the name of &amp;ldquo;media archaeology,&amp;rdquo; we were in the process of turning on our first smartphones and gawking at our friends&amp;rsquo; new tablets.1 Media archaeology foregrounded the paths not taken, the dead ends and minor figures of media history&amp;mdash;files and optical toys, the phonautograph and the Minitel.</description>
+      <description>New Scholarship on the Uses of Media  Your browser does not support the video tag.  Naomi Elena Ramirez,
+Choreography for Smartphone Gestures (2016)  Ideas are products of their environments. It&amp;rsquo;s no accident that when a new paradigm of media studies appeared on the scene going by the name of &amp;ldquo;media archaeology,&amp;rdquo; we were in the process of turning on our first smartphones and gawking at our friends&amp;rsquo; new tablets.</description>
     </item>
     
     <item>
@@ -27,8 +28,10 @@
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
       <guid>https://wythoff.net/posts/the-figure-shortcode/</guid>
-      <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
+      <description>Title Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
 https://gohugo.io/content-management/shortcodes/#figure
+
+
 This theme has 3 CSS classes made for figure elements:
  big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
     </item>
@@ -116,7 +119,15 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wythoff.net/cv/</guid>
-      <description>Current as of October 2019. Also available as a PDF.Pennsylvania State University (2017-2019)Columbia University (2013-2017)</description>
+      <description>Current as of October 2019. Also available as a PDF.
+This browser does not support PDFs. Please download the PDF to view it: Download PDF.
+  -- Positions Princeton University (2019-present) DH Strategist, Center for Digital Humanities
+Pennsylvania State University (2017-2019)
+Visiting Fellow, Center for Humanities and Information
+Columbia University (2013-2017)
+Postdoctoral Fellow, Society of Fellows in the Humanities
+Lecturer, Department of English and Comparative Literature
+Digital Methods and Public Humanities Fellow, Heyman Center for the Humanities</description>
     </item>
     
   </channel>

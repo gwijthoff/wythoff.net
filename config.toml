@@ -97,3 +97,8 @@ publishDir = "docs"
     name = "CV"
     url = "cv/"
     weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
