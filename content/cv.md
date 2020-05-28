@@ -2,15 +2,15 @@
 title = "CV"
 +++
 
-<em>Current as of October 2019.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
-
-<!--
-<object data="https://wythoff.net/pdf/yaszek_review.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://wythoff.net/pdf/yaszek_review.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wythoff.net/pdf/yaszek_review.pdf">Download PDF</a>.</p>
+<object data="https://wythoff.net/pdf/wythoff_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://wythoff.net/pdf/wythoff_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wythoff.net/pdf/wythoff_cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
--->
+
+<!--
+
+<em>Current as of October 2019.  Also available <a href="https://github.com/gwijthoff/CV/blob/master/wythoff_cv.pdf">as a PDF</a>.</em>
 
 <h2>Positions</h2>
 <b>Princeton University (2019-present)</b>
@@ -210,9 +210,7 @@ title = "CV"
 <p><strong>Web Development:</strong> Reclaim Hosting, HTML/CSS, Tachyons, Jekyll, WordPress, Omeka, Drupal, Scalar</p>
 <p><strong>Digital Mapping:</strong> QGIS, Leaflet Maps, Google Earth</p>
 <p><strong>Security:</strong> PGP</p>
-<!--
-**Social Media & Communications:** MailChimp, Slack, Basecamp, Google Analytics, Google Apps, Twitter, Facebook, Tumblr
--->
+<p><strong>Social Media & Communications:</strong> MailChimp, Slack, Basecamp, Google Analytics, Google Apps, Twitter, Facebook, Tumblr</p>
 <p><strong>Other Technologies:</strong> GitHub, SQLite, Scrivener, Zotero, Mendeley, Prezi, Microsoft Office, Apple iWork, iMovie</p>
 <h2 id="languages" class="unnumbered">Languages</h2>
 <p>German (reading proficiency and moderate speaking proficiency)</p>
@@ -223,3 +221,5 @@ title = "CV"
 <p>John Russell, Assistant Professor, University Libraries, Pennsylvania State University, <a href="mailto:jer308@psu.edu">jer308@psu.edu</a></p>
 <p>Meredith Martin, Associate Professor of English, Princeton University, <a href="mailto:mm4@princeton.edu">mm4@princeton.edu</a></p>
 <p>Matthew K. Gold, Associate Professor of English &amp; Digital Humanities, The Graduate Center, CUNY, <a href="mailto:mgold@gc.cuny.edu">mgold@gc.cuny.edu</a></p>
+
+-->

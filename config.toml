@@ -98,6 +98,7 @@ publishDir = "docs"
     url = "cv/"
     weight = 30
 
+# for some reason, this enables HTML to be rendered in markdown files
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
