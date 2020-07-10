@@ -42,7 +42,11 @@ title = "Writing"
 
 ["Areophone, Telephot, Hypnobioscope: Hugo Gernsback and the Science Fictionality of Media,"](http://wi.mobilities.ca/grant-wythoff-aerophone-telephot-hypnobioscope-hugo-gernsbacks-media-theory/) **_Wi: Journal of Mobile Media_** (2014)
 
-["Sustainable Authorship in Plain Text Using Pandoc and Markdown,"](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) with Dennis Tenen, **_The Programming Historian_** (2014). Spanish transl. by Víctor Gayol as ["Escritura sostenible en texto plano usando Pandoc y Markdown"](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)
+["Sustainable Authorship in Plain Text Using Pandoc and Markdown,"](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) with Dennis Tenen, **_The Programming Historian_** (2014).
+
+> Translations:
+>
+> Spanish by Víctor Gayol, ["Escritura sostenible en texto plano usando Pandoc y Markdown"](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown). ❧ Italian by nilocram, ["Scrivere in modo sostenibile usando il testo semplice con Pandoc e Markdown"](https://nilocram.wordpress.com/2019/05/11/scrittura-sostenibile-con-markdown-e-pandoc/).
 
 ["Learning with Polyphony: AmpDamp,"](https://www.ideals.illinois.edu/bitstream/handle/2142/42533/525.pdf) with Acker et al., **_iConference Proceedings_** (2013)
 
