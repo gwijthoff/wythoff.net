@@ -2,7 +2,7 @@
 title = "Teaching"
 +++
 
-## Privacy, Publicity, and the Text Message
+## [History of Text Messaging](https://gwijthoff.github.io/texting/)
 
 ### Fall 2020 • undergrad seminar
 
