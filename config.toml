@@ -79,7 +79,7 @@ publishDir = "docs"
 
   [[params.social]]
     name = "email"
-    url = "mailto:grant.wythoff@gmail.com"
+    url = "mailto:gwythoff@princeton.edu"
 
 [menu]
 
